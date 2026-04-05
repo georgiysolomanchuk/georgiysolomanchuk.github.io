@@ -13,6 +13,9 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/georgiy-solomanchuk
+    - icon: envelope
+      text: Email
+      href: mailto:georgiy_solomanchuk@brown.edu
     #- icon: google
     #  text: Google Scholar
     #  href: https://scholar.google.com
