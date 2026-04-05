@@ -1,51 +1,51 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Simone",
+    "objectID": "research/project-1.html",
+    "href": "research/project-1.html",
+    "title": "Risk modelling approaches for student-like models with fractal activity time",
     "section": "",
-    "text": "A longer paragraph about me and my interests and anything else I like to do."
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "Simone",
-    "section": "Education",
-    "text": "Education\nWhere I studied"
-  },
-  {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "Simone",
-    "section": "Experience",
-    "text": "Experience\nWhat I’ve done"
-  },
-  {
-    "objectID": "research/paper-1.html",
-    "href": "research/paper-1.html",
-    "title": "My First Paper",
-    "section": "",
-    "text": "A description of my paper.\nCould include a photo, or links, or anything at all!"
+    "text": "View full paper here"
   },
   {
     "objectID": "research/index.html",
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "All of my research projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Paper\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2024\n\n\nSimone , Matthew DeHaven\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Project\n\n\n\n\n\n\n\n\n\n\n\nFeb 28, 2024\n\n\nSimone\n\n\n\n\n\n\nNo matching items"
+    "text": "Evolution of social preferences: the comparison of media influenced and non-influenced dynamics\n\n\n\n\n\n\n\n\nJun 12, 2024\n\n\nGeorgiy Solomanchuk\n\n\n\n\n\n\n\n\n\n\n\n\nRisk modelling approaches for student-like models with fractal activity time\n\n\n\n\n\n\n\n\nSep 20, 2021\n\n\nGeorgiy Solomanchuk, Nataliia Shchestyuk\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "research/project-1.html",
-    "href": "research/project-1.html",
-    "title": "My First Project",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Georgiy Solomanchuk",
     "section": "",
-    "text": "A description of my project.\nCould include a photo, or links, or anything at all!"
+    "text": "I grew up in Kyiv, Ukraine, where Icompleted my undergraduate studies in Applied Mathematics at the National University of Kyiv-Mohyla Academy.\nI then pursued an MSc in Economics at New York University Abu Dhabi. After graduating, I worked for one year as a research assistant at the NYU Abu Dhabi Department of Economics with Professor Hervé Crès.\nIn 2025, I moved to Providence to begin my PhD in Economics at Brown University."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Georgiy Solomanchuk",
+    "section": "Education",
+    "text": "Education\n\nPhD in Economics, Brown University (2025–present)\n\nMSc in Economics, New York University Abu Dhabi (2024, GPA 4.0/4.0)\n\nBSc in Applied Mathematics, National University of Kyiv-Mohyla Academy (2022, GPA 95.31/100)"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Georgiy Solomanchuk",
+    "section": "Experience",
+    "text": "Experience\n\nResearch Assistant, NYU Abu Dhabi (Nov 2024 – July 2025)\nProofread and improved existing mathematical proofs for an academic book on majority voting; developed new mathematical proofs related to voting theory; conducted computer simulations; created visualizations (graphs, charts, tables); collaborated with researchers and contributed to reports\nTeaching Assistant, Europa-Universität Viadrina (2022–2023)\nPrepared and conducted mathematics tutorials in German; developed exercises for recitations and individual student work\nMath Tutor (self-employed) (2020–2023)\nProvided personalized mathematics tutoring focused on advanced problem-solving and competition preparation; improved students’ AMC (American Mathematics Competition) performance from top 25% to top 5%\nRisk Intern, Ernst & Young (EY) (2019–2020)\nWorked on banking operational models and risk systems; contributed to KYC process development and optimization; performed calculations and assisted in compliance and AML processes\nIntern, Dragon Capital (2019)\nAssisted in an investment project; developed and programmed an algorithm for the elevators of a residential complex"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Simone",
+    "title": "Georgiy Solomanchuk",
     "section": "",
-    "text": "I am a Ph.D. student in upside-down studies at Sunspot University.\nMost of my current research is driven by trying to find an answer to the age-old question of “How cute am I?”\nPlease feel free to get in touch!"
+    "text": "I am a first-year Ph.D. student in Economics at Brown University.\nMy research interests lie in microeconomic theory : game theory, mechanism design, and behavioral economics."
+  },
+  {
+    "objectID": "research/paper-1.html",
+    "href": "research/paper-1.html",
+    "title": "Evolution of social preferences: the comparison of media influenced and non-influenced dynamics",
+    "section": "",
+    "text": "Download paper (PDF)"
   }
 ]

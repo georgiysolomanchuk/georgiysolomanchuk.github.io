@@ -1,9 +1,7 @@
 ---
-title: "My First Project"
-author: Simone
-date: "February 28, 2024"
+title: "Risk modelling approaches for student-like models with fractal activity time"
+author: Georgiy Solomanchuk, Nataliia Shchestyuk
+date: "September 20, 2021"
 ---
 
-A description of my project.
-
-Could include a photo, or links, or anything at all!
+[View full paper here](https://ekmair.ukma.edu.ua/items/0f29f9df-32cd-44ea-939d-f4a0f3e22d24)

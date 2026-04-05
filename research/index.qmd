@@ -5,5 +5,3 @@ listing:
   contents:
     - "*.qmd"
 ---
-
-All of my research projects.

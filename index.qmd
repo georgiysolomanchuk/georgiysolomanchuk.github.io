@@ -1,25 +1,26 @@
 ---
-title: "Simone"
+title: "Georgiy Solomanchuk"
 about:
   template: jolla
   image: profile.jpg
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
+    #- icon: twitter
+    #  text: twitter
+    #  href: https://twitter.com
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/georgiysolomanchuk
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
-    - icon: google
-      text: Google Scholar
-      href: https://scholar.google.com
+      href: https://www.linkedin.com/in/georgiy-solomanchuk
+    #- icon: google
+    #  text: Google Scholar
+    #  href: https://scholar.google.com
+    - icon: envelope
+      text: Email
+      href: mailto:georgiy_solomanchuk@brown.edu
 ---
 
-I am a Ph.D. student in upside-down studies at Sunspot University.
+I am a first-year Ph.D. student in Economics at Brown University.
 
-Most of my current research is driven by trying to find an answer to the age-old question of “How cute am I?"
-
-Please feel free to get in touch!
+My research interests lie in microeconomic theory : game theory, mechanism design, and behavioral economics.

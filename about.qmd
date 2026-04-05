@@ -1,29 +1,48 @@
 ---
-title: "Simone"
+title: "Georgiy Solomanchuk"
 about:
   template: trestles
   image: profile.jpg
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
+    #- icon: twitter
+    #  text: twitter
+    #  href: https://twitter.com
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/georgiysolomanchuk
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
-    - icon: google
-      text: Google Scholar
-      href: https://scholar.google.com
+      href: https://www.linkedin.com/in/georgiy-solomanchuk
+    #- icon: google
+    #  text: Google Scholar
+    #  href: https://scholar.google.com
 ---
 
-A longer paragraph about me and my interests and anything else I like to do.
+I grew up in Kyiv, Ukraine, where Icompleted my undergraduate studies in Applied Mathematics at the National University of Kyiv-Mohyla Academy.
+
+I then pursued an MSc in Economics at New York University Abu Dhabi. After graduating, I worked for one year as a research assistant at the NYU Abu Dhabi Department of Economics with Professor Hervé Crès.
+
+In 2025, I moved to Providence to begin my PhD in Economics at Brown University.
 
 ## Education
 
-Where I studied
+- **PhD in Economics**, Brown University (2025–present)  
+- **MSc in Economics**, New York University Abu Dhabi (2024, GPA 4.0/4.0)  
+- **BSc in Applied Mathematics**, National University of Kyiv-Mohyla Academy (2022, GPA 95.31/100)  
 
 ## Experience
 
-What I've done
+- **Research Assistant**, NYU Abu Dhabi (Nov 2024 – July 2025)  
+  Proofread and improved existing mathematical proofs for an academic book on majority voting; developed new mathematical proofs related to voting theory; conducted computer simulations; created visualizations (graphs, charts, tables); collaborated with researchers and contributed to reports  
+
+- **Teaching Assistant**, Europa-Universität Viadrina (2022–2023)  
+  Prepared and conducted mathematics tutorials in German; developed exercises for recitations and individual student work  
+
+- **Math Tutor (self-employed)** (2020–2023)  
+  Provided personalized mathematics tutoring focused on advanced problem-solving and competition preparation; improved students’ AMC (American Mathematics Competition) performance from top 25% to top 5%  
+
+- **Risk Intern**, Ernst & Young (EY) (2019–2020)  
+  Worked on banking operational models and risk systems; contributed to KYC process development and optimization; performed calculations and assisted in compliance and AML processes  
+
+- **Intern**, Dragon Capital (2019)  
+  Assisted in an investment project; developed and programmed an algorithm for the elevators of a residential complex   
