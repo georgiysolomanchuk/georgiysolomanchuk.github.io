@@ -21,7 +21,7 @@ about:
     #  href: https://scholar.google.com
 ---
 
-I grew up in Kyiv, Ukraine, where Icompleted my undergraduate studies in Applied Mathematics at the National University of Kyiv-Mohyla Academy.
+I grew up in Kyiv, Ukraine, where I completed my undergraduate studies in Applied Mathematics at the National University of Kyiv-Mohyla Academy.
 
 I then pursued an MSc in Economics at New York University Abu Dhabi. After graduating, I worked for one year as a research assistant at the NYU Abu Dhabi Department of Economics with Professor Hervé Crès.
 
